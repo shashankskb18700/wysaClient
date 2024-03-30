@@ -1,0 +1,14 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+@font-face {
+  font-family: logoFont;
+  src: url(../../Assets/Fonts/TorusFonts/Fontspring-DEMO-toruspro-light.otf);
+}
+.Logo {
+  font-family: logoFont;
+  color: rgb(63, 145, 159);
+}

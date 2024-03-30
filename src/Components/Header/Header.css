@@ -1,0 +1,19 @@
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 100vw;
+  height: 10vh;
+  background: black;
+  font-size: 3em;
+  font-weight: 800;
+  font-family: facebookFont;
+  color: white;
+  padding-left: 1em;
+  padding-right: 1em;
+}
+
+a {
+  text-decoration: none;
+  font-size: 0.9em;
+}
